@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/views/form/style.less"],"names":[],"mappings":"AAAA,UACE,WAAA,CACA,aACF","file":"13.48146e84.chunk.css","sourcesContent":[".form-con {\n  width: 500px;\n  margin: 0 auto;\n}\n@primary-color: #192cfc;"]}

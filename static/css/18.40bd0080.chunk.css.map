@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/views/canvas/Sign/index.less"],"names":[],"mappings":"AAAA,uBACE,UAAA,CACA,WACF","file":"18.40bd0080.chunk.css","sourcesContent":[".canvas-sign-container {\n  width: 100%;\n  height: 100%;\n\n\n}\n@primary-color: #192cfc;"]}

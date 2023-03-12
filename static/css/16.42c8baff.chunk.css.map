@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/views/download/index.less"],"names":[],"mappings":"AAAA,oBACE,YACF,CAFA,wBAII,WAAA,CACA,YACJ","file":"16.42c8baff.chunk.css","sourcesContent":[".download-container {\n  padding: 10px;\n\n  img {\n    width: 500px;\n    height: 500px;\n  }\n}\n@primary-color: #192cfc;"]}
